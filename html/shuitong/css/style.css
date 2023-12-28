@@ -1,0 +1,13 @@
+body {
+  background: #FFE066;
+}
+
+svg {
+  height: 100vh;
+  width: 100vw;
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
